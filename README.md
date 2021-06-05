@@ -1,2 +1,2 @@
 # Proteus
-Official website "Proteus" for bio club of iiser thiruvananthapuram.
+This a template for a website home page
